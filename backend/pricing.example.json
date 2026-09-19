@@ -1,0 +1,5 @@
+{
+  "gpt-4.1": { "provider": "openai", "input": "2.00", "cached_input": "0.50", "output": "8.00" },
+  "gpt-4.1-mini": { "provider": "openai", "input": "0.40", "cached_input": "0.10", "output": "1.60" },
+  "claude-sonnet-4-20250514": { "provider": "anthropic", "input": "3.00", "cached_input": "0.30", "output": "15.00" }
+}
